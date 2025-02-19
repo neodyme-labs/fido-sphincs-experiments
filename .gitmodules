@@ -1,0 +1,3 @@
+[submodule "OpenSK"]
+	path = OpenSK
+	url = https://github.com/rugo/OpenSK.git
