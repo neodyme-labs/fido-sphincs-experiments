@@ -6,7 +6,7 @@ from subprocess import check_output
 SPHINCS_DIR = "OpenSK/third_party/sphincsplus/ref/"
 OPENSK_DIR = "OpenSK"
 
-SPHINCS_PARAM_REL = "spx-few/parameters/current.txt"
+SPHINCS_PARAM_REL = "current_params.txt"
 SPHINCS_PARAM_TMP = SPHINCS_DIR + SPHINCS_PARAM_REL
 RUN_DIR = os.getcwd()
 
