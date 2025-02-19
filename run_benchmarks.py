@@ -3,7 +3,7 @@ import os
 from pathlib import Path
 from subprocess import check_output
 
-SPHINCS_DIR = "OpenSK/third_party/sphincsplus/ref/"
+SPHINCS_DIR = "OpenSK/third_party/sphincs_wrap/src_c/ref/"
 OPENSK_DIR = "OpenSK"
 
 SPHINCS_PARAM_REL = "current_params.txt"
