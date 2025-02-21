@@ -1,6 +1,6 @@
 # FIDO SPHINCS+ Experiments
 
-This is the meta repository for the code accompanying the paper `Stateless Hash-Based Signatures for Post-Quantum Security Keys`.
+This is the meta repository for the code accompanying the paper [Stateless Hash-Based Signatures for Post-Quantum Security Keys](https://ia.cr/2025/298).
 It ties together all scripts and code needed to reproduce the results.
 
 ## Structure
